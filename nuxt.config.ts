@@ -12,5 +12,5 @@ export default defineNuxtConfig({
     prefix: '',
     componentDir: './components/ui'
   },
-  
+  ssr: false
 });
